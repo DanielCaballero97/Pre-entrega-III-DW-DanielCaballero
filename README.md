@@ -7,7 +7,7 @@ como si te gustaria visitar selvas o capitales hasta el lugar en especifico con 
 
   Cosas para tener en cuenta:
 
-  * existen 2 paginas de ayuda, una base y otra que contiene un cuadrado extra donde tiene la descripcion / ayuda para entender esa "palabra clave" , para ver esa pagina seleccionar del primer dropdwon la primera opcion
+  * existen 2 paginas de ayuda, una base y otra que contiene un cuadrado extra donde tiene la descripcion / ayuda para entender esa "palabra clave" , para ver esa pagina seleccionar del primer dropdwon de la pagina de ayuda la primera opcion
 
   * faltaria la seccion de organizar el viaje de avion, lo cual no me dio el tiempo sinceramente , si consideran incompleta la pag por eso avisen para crearlo
 
